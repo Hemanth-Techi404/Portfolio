@@ -28,7 +28,7 @@ const socialLinks = [
     },
     {
         name: 'GitHub',
-        href: 'https://github.com/hemanth',
+        href: 'https://github.com/Hemanth-Techi404',
         icon: <GitHubIcon />,
         color: 'hover:bg-[#333] hover:border-[#555]',
     },
