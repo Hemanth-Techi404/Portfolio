@@ -18,7 +18,11 @@ const Navbar = () => {
                 {/* Left: Profile & Name */}
                 <div className="flex items-center gap-4">
                     <div className="w-10 h-10 rounded-full bg-accent flex items-center justify-center overflow-hidden border-2 border-white/10 shadow-lg">
-                        <span className="text-navy font-black text-lg">H</span>
+                        <img
+                            src="https://img.favpng.com/20/12/23/3d-male-avatar-3d-male-character-in-yellow-shirt-1yYSh8Ju_t.jpg"
+                            alt="Profile"
+                            className="w-full h-full object-cover"
+                        />
                     </div>
                     <span className="text-white font-bold tracking-tighter text-xl hidden sm:inline-block">Hemanth.</span>
                 </div>
